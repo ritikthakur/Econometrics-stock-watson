@@ -1,8 +1,9 @@
 ---
-title: "HMDA_sw"
-output:
-  html_document:
+title: "Regression_with_a_Binary_Dependent_Variable"
+output:html_document:
     df_print: paged
+    
+The instructional dataset, HMDA, used (as mentioned in stock, watson) may be found here: https://ideas.repec.org/p/boc/bocins/hmda.html    
 ---
 
 ```{r}
